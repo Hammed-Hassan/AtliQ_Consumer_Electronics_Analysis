@@ -16,12 +16,14 @@ Our insurance company is experiencing increasing operational costs and fluctuati
 - What anomalous patterns within claim data can we leverage to proactively detect and mitigate potentially fraudulent activities, thereby safeguarding our financial integrity?
 
 # Data Model
-![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/201.png)
+![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/1.png)
+![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/2.png)
 
 # Dashboard Design
-![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/202.png)
-![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/203.png)
-![Alt text for the image](https://github.com/Midoford/Insurance-Data-Analysis-Dashboard/blob/main/204.png)
+![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/3.png)
+![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/4.png)
+![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/5.png)
+![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/6.png)
 
 # Insight
 
