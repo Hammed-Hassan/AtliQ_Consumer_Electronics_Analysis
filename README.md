@@ -28,9 +28,9 @@ Our electronic consumer business faces competitive challenges and declining prof
 
 # Insight
 - Our net sales saw an exponential growth from $111.37M to $3.74B over four years, even as Gross Margin % initially declined before a modest recovery in 2022.
-- New smart lighting customers show a 40% higher likelihood to purchase a complementary smart speaker within three months, confirming a prime ecosystem expansion opportunity
-- DSLR camera purchasers are 35% more prone to concurrent premium memory card buys, yet our bundling overlooks this high-value upsell.
-- Wireless headphone returns are 20% higher through Channel A compared to Channel B, pointing to potential issues with product handling or customer education in that specific channel.
+- Amazon customer drives the highest sales of $496.88M in Net Sales, but its 36.78% Gross Margin is notably lower than Neptune's 46.70% and AtliQ Exclusive's 46.01%.
+- Notebooks product category dominate Net Sales at $1,580.43M, but all segments maintain a highly consistent Gross Margin % around 38%, ranging from 38.01% to 38.45%.
+- The company recorded a total Net Profit loss of -$522.42M (-13.98%), with all regions unprofitable.
 
 ## Technical & Soft Skills
 **Technical Skills:**
