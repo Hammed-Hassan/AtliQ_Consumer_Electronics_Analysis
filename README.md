@@ -7,13 +7,14 @@ Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiZDA1M2M3NzctMzI4N
 Presentation Video - 
 
 # Problem Statement
-Our insurance company is experiencing increasing operational costs and fluctuating profitability, making it difficult to accurately forecast financial performance and identify areas for improvement. A lack of consolidated and actionable insights into claims trends, customer behavior, and policy performance hinders our ability to make data-driven decisions. We need to better understand the key drivers of our claims and revenue to optimize our underwriting processes, manage risks effectively, and improve customer satisfaction.
+Our electronic consumer business faces competitive challenges and declining profitability due to a lack of clear insights from our extensive sales data. We urgently need to understand evolving customer behaviors, product performance, and market trends to regain our competitive edge and drive strategic growth.
 
 **Task**
-- How can we precisely identify the drivers of escalating claims costs and extended processing times to significantly enhance operational efficiency?
-- Are our current policies yielding optimal profitability across all customer segments, and how can we refine our underwriting and pricing strategies for sustained growth?
-- What are the primary factors influencing customer churn versus retention, and how can we proactively leverage these insights to improve client loyalty and Lifetime Value?
-- What anomalous patterns within claim data can we leverage to proactively detect and mitigate potentially fraudulent activities, thereby safeguarding our financial integrity?
+- Sales & Profitability Trends: Identify which products, categories, and sales channels are driving our revenue and profit, and analyze their performance trends over time?
+- Customer Segmentation: Understand distinct customer groups based on their purchasing habits and demographics to tailor marketing and sales efforts?
+- Product Performance Lifecycle: Evaluate product success from launch to decline, pinpointing key factors that influence their market acceptance and longevity?
+- Market & Seasonal Fluctuations: Uncover significant seasonal sales patterns and emerging consumer preferences to optimize inventory and marketing timing?
+-Inventory Optimization: Assess inventory levels against sales velocity to minimize costs from overstocking and prevent lost sales from stock-outs.
 
 # Data Model
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/1.png)
