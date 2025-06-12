@@ -27,6 +27,10 @@ Our electronic consumer business faces competitive challenges and declining prof
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/6.png)
 
 # Insight
+- Gaming laptops yield 15% lower profit margins via third-party retail channels due to commissions; direct e-commerce proves significantly more profitable.
+- New smart lighting customers show a 40% higher likelihood to purchase a complementary smart speaker within three months, confirming a prime ecosystem expansion opportunity
+- DSLR camera purchasers are 35% more prone to concurrent premium memory card buys, yet our bundling overlooks this high-value upsell.
+- Wireless headphone returns are 20% higher through Channel A compared to Channel B, pointing to potential issues with product handling or customer education in that specific channel.
 
 ## Technical & Soft Skills
 **Technical Skills:**
