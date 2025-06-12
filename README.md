@@ -2,7 +2,7 @@
 
 Challenge Link - 
 
-Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiNjEyMmUzMDgtNTUzMi00ZjkzLTg1ODEtZGFjY2VkYTMyNGNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiZDA1M2M3NzctMzI4NC00ZDMwLTg4YWYtZWJmMDExOWQxNDEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Presentation Video - 
 
