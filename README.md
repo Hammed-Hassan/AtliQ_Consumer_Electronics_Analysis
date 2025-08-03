@@ -2,8 +2,6 @@
 
 ![Alt text for the image](https://github.com/Hammed-Hassan/AtliQ_Consumer_Electronics_Analysis/blob/main/Front%20Page.png)
 
-Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiZDA1M2M3NzctMzI4NC00ZDMwLTg4YWYtZWJmMDExOWQxNDEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
 #
 ## Introduction
 This project, "Consumer Electronic Analysis," tackles the challenge of declining profitability and competitive pressure by transforming sales data into actionable insights. This project was completed as part of a Power BI projects bootcamp at the online school Codebasics. Using a comprehensive Power BI dashboard, the analysis uncovers key trends in sales, customer behavior, and product performance. The goal is to optimize business strategies, improve profitability, and drive strategic growth.
@@ -57,13 +55,16 @@ A star schema was implemented to structure the data for efficient analysis. This
 ### Supply Cahin View
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/6.png)
 
-#
+# Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiZDA1M2M3NzctMzI4NC00ZDMwLTg4YWYtZWJmMDExOWQxNDEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ### Insights
 The analysis revealed several key insights:
 - Financial Performance: Our net sales have experienced explosive growth, skyrocketing from $111.37M to $3.74B in just four years. However, this growth was accompanied by a concerning initial decline in Gross Margin %, which only saw a modest recovery in 2022.
 - Channel Performance: The Amazon sales channel is our largest revenue driver, generating $496.88M in Net Sales. Despite this, its Gross Margin of 36.78% is significantly lower than other channels like Neptune (46.70%) and AtliQ Exclusive (46.01%). This suggests a need to re-evaluate our strategy with Amazon.
 - Product Categories: The Notebooks category is the top performer, accounting for $1,580.43M in Net Sales. All product segments, however, maintain a very consistent Gross Margin % between 38.01% and 38.45%, indicating stable profitability across the board.
 - Overall Profitability: Despite the high growth in sales, the company recorded a total net profit loss of -$522.42M (-13.98%), with all regions being unprofitable.
+
+#
 
 ### Conclusion & Recommendation 
 Conclusion
@@ -77,6 +78,8 @@ Recommedation
 - Focus on Profitability: Conduct a deeper analysis to identify the root causes of the net profit loss across all regions and product categories. This is a critical step for sustainable growth.
 - Customer-Centric Strategies: Leverage the customer segmentation analysis to create highly targeted marketing campaigns. This will help maximize customer lifetime value and retention.
 - Strategic Inventory Management: Use the seasonal and sales velocity insights from the dashboard to optimize inventory levels. This will help minimize costs associated with overstocking and prevent lost sales from stock-outs.
+
+# 
 
 ![Alt text for the image](https://github.com/Hammed-Hassan/AtliQ_Consumer_Electronics_Analysis/blob/main/istockphoto-1397892955-612x612.jpg)
 
