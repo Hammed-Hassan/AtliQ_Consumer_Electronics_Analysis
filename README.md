@@ -1,50 +1,78 @@
 # Consumer Electronic Analysis - Power BI
 
-Challenge Link - 
+![Alt text for the image](https://github.com/Hammed-Hassan/AtliQ_Consumer_Electronics_Analysis/blob/main/Front%20Page.png)
 
 Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiZDA1M2M3NzctMzI4NC00ZDMwLTg4YWYtZWJmMDExOWQxNDEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Presentation Video - 
+#
+## Introduction
+This project, "Consumer Electronic Analysis," tackles the challenge of declining profitability and competitive pressure by transforming sales data into actionable insights. This project was completed as part of a Power BI projects bootcamp at the online school Codebasics. Using a comprehensive Power BI dashboard, the analysis uncovers key trends in sales, customer behavior, and product performance. The goal is to optimize business strategies, improve profitability, and drive strategic growth.
 
-# Problem Statement
-Our electronic consumer business faces competitive challenges and declining profitability due to a lack of clear insights from our extensive sales data. We urgently need to understand evolving customer behaviors, product performance, and market trends to regain our competitive edge and drive strategic growth.
 
-**Task**
-- Sales & Profitability Trends: Identify which products, categories, and sales channels are driving our revenue and profit, and analyze their performance trends over time?
-- Customer Segmentation: Understand distinct customer groups based on their purchasing habits and demographics to tailor marketing and sales efforts?
-- Product Performance Lifecycle: Evaluate product success from launch to decline, pinpointing key factors that influence their market acceptance and longevity?
-- Market & Seasonal Fluctuations: Uncover significant seasonal sales patterns and emerging consumer preferences to optimize inventory and marketing timing?
--Inventory Optimization: Assess inventory levels against sales velocity to minimize costs from overstocking and prevent lost sales from stock-outs.
+### Skills Demonstrated
+Technical Skills
+- Data Wrangling and Cleaning
+- Statistical Analysis
+- Data Visualization
+- Customer Segmentation
+- DAX (Data Analysis Expressions)
 
-# Data Model
+Soft Skills
+- Analytical Thinking
+- Strong Communication
+- Collaboration
+- Problem-Solving
+
+#
+### Problem Statements
+The core objectives of this analysis were to address the following key business questions:
+- Sales & Profitability Trends
+- Customer Segmentation
+- Product Performance Lifecycle
+- Market & Seasonal Fluctuations
+- Inventory Optimization
+
+#
+### Data Sourcing 
+This dataset was provided by the online school under strict confidentiality agreements and is classified as proprietary information. As such, it cannot be shared with third parties without explicit authorization.
+
+#
+### Data Tranformation & Manipulation
+
+#
+### Data Modelling 
+A star schema was implemented to structure the data for efficient analysis. This model consists of a central fact table connected to various dimension tables. This design ensures optimal performance and makes it easy to filter and analyze data across different dimensions.
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/1.png)
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/2.png)
 
-# Dashboard Design
+
+# 
+### Dashboard Design
+### Finance View
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/3.png)
+### Sales View
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/4.png)
+### Marketing View
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/5.png)
+### Supply Cahin View
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/6.png)
 
-# Insight
-- Our net sales saw an exponential growth from $111.37M to $3.74B over four years, even as Gross Margin % initially declined before a modest recovery in 2022.
-- Amazon customer drives the highest sales of $496.88M in Net Sales, but its 36.78% Gross Margin is notably lower than Neptune's 46.70% and AtliQ Exclusive's 46.01%.
-- Notebooks product category dominate Net Sales at $1,580.43M, but all segments maintain a highly consistent Gross Margin % around 38%, ranging from 38.01% to 38.45%.
-- The company recorded a total Net Profit loss of -$522.42M (-13.98%), with all regions unprofitable.
+#
+### Conclusion
+The analysis revealed several key insights:
+- Financial Performance: Our net sales have experienced explosive growth, skyrocketing from $111.37M to $3.74B in just four years. However, this growth was accompanied by a concerning initial decline in Gross Margin %, which only saw a modest recovery in 2022.
+- Channel Performance: The Amazon sales channel is our largest revenue driver, generating $496.88M in Net Sales. Despite this, its Gross Margin of 36.78% is significantly lower than other channels like Neptune (46.70%) and AtliQ Exclusive (46.01%). This suggests a need to re-evaluate our strategy with Amazon.
+- Product Categories: The Notebooks category is the top performer, accounting for $1,580.43M in Net Sales. All product segments, however, maintain a very consistent Gross Margin % between 38.01% and 38.45%, indicating stable profitability across the board.
+- Overall Profitability: Despite the high growth in sales, the company recorded a total net profit loss of -$522.42M (-13.98%), with all regions being unprofitable.
 
-## Technical & Soft Skills
-**Technical Skills:**
-- [x] Proficiency in data wrangling and cleaning ensures raw data is transformed into a usable format using tools like Python.
-- [x] Statistical analysis and modeling leverage techniques like logistic regression and machine learning algorithms to predict churn accurately.
-- [x] Data visualization tools like Tableau or Python libraries help communicate churn patterns effectively through insightful visuals.
-- [x] Customer segmentation using clustering techniques like K-Means helps target specific groups for churn prevention.
-- [x] DAX: Using Data Analysis Expressions to create calculated columns for in-depth analysis.
+### Recommendation 
+- Optimize High-Volume Channels: Investigate the low Gross Margin % for the Amazon channel and explore strategies to improve profitability, such as price adjustments or reducing fulfillment costs.
+- Focus on Profitability: While sales growth is impressive, the negative net profit is a major concern. A deeper dive is needed to identify the root causes of the losses across all regions and product categories.
+- Customer-Centric Strategies: Leverage the customer segmentation analysis to create targeted marketing campaigns for each customer group to maximize their lifetime value.
 
-**Soft Skills:**
-- [x] Analytical thinking allows for breaking down complex problems to derive actionable insights from data.
-- [x] Strong communication skills ensure technical findings are presented clearly to non-technical stakeholders.
-- [x] Collaboration and teamwork facilitate working with cross-functional teams to implement churn reduction strategies.
-- [x] A problem-solving mindset helps identify root causes of churn and propose innovative solutions to retain customers.
+
+![Alt text for the image](https://github.com/Hammed-Hassan/AtliQ_Consumer_Electronics_Analysis/blob/main/istockphoto-1397892955-612x612.jpg)
+
 
 
 
