@@ -3,7 +3,7 @@
 ![Alt text for the image](https://github.com/Hammed-Hassan/AtliQ_Consumer_Electronics_Analysis/blob/main/Front%20Page.png)
 
 #
-## Introduction
+## ✅Introduction
 This project, "Consumer Electronic Analysis," tackles the challenge of declining profitability and competitive pressure by transforming sales data into actionable insights. This project was completed as part of a Power BI projects bootcamp at the online school Codebasics. Using a comprehensive Power BI dashboard, the analysis uncovers key trends in sales, customer behavior, and product performance. The goal is to optimize business strategies, improve profitability, and drive strategic growth.
 
 
@@ -22,7 +22,7 @@ Soft Skills
 - Problem-Solving
 
 #
-### Problem Statements
+### ✅Problem Statements
 The core objectives of this analysis were to address the following key business questions:
 - Sales & Profitability Trends
 - Customer Segmentation
@@ -31,11 +31,11 @@ The core objectives of this analysis were to address the following key business 
 - Inventory Optimization
 
 #
-### Data Sourcing 
+### ✅Data Sourcing 
 This dataset was provided by the online school under strict confidentiality agreements and is classified as proprietary information. As such, it cannot be shared with third parties without explicit authorization.
 
 #
-### Data Tranformation & Manipulation
+### ✅Data Tranformation & Manipulation
 ### Data Cleaning with Power Query
 - Handling Missing Values: Removing and replacing null and blank data.
 - Data Type Correction: Ensuring all columns have the correct format (e.g., text, date, number) and the first row in some cases and promoted as the headers.
@@ -54,14 +54,14 @@ This dataset was provided by the online school under strict confidentiality agre
   - Purpose: Total net sales comapared to thesame quantity from the previous year.
   
 #
-### Data Modelling 
+### ✅Data Modelling 
 A star schema was implemented to structure the data for efficient analysis. This model consists of a central fact table connected to various dimension tables. This design ensures optimal performance and makes it easy to filter and analyze data across different dimensions.
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/1.png)
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/2.png)
 
 
 # 
-### Dashboard Design
+### ✅Dashboard Design
 ### Finance View
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/3.png)
 ### Sales View
@@ -73,7 +73,7 @@ A star schema was implemented to structure the data for efficient analysis. This
 
 # Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiOWViY2ZiYTEtNDcxMi00ZGUxLTljNDAtM2VmMTdkY2EwOTZhIiwidCI6IjAwMGRiMTM4LTRjODAtNDc0MC04NDY4LTFiYmMxN2Y5ZTNlYSJ9)
 
-### Insights
+### ✅Insights
 The analysis revealed several key insights:
 - Financial Performance: Our net sales have experienced explosive growth, skyrocketing from $111.37M to $3.74B in just four years. However, this growth was accompanied by a concerning initial decline in Gross Margin %, which only saw a modest recovery in 2022.
 - Channel Performance: The Amazon sales channel is our largest revenue driver, generating $496.88M in Net Sales. Despite this, its Gross Margin of 36.78% is significantly lower than other channels like Neptune (46.70%) and AtliQ Exclusive (46.01%). This suggests a need to re-evaluate our strategy with Amazon.
@@ -82,7 +82,7 @@ The analysis revealed several key insights:
 
 #
 
-### Conclusion & Recommendation 
+### ✅Conclusion & Recommendation 
 Conclusion
 - I noticed net sales have experienced explosive growth, but this was accompanied by a concerning decline in Gross Margin %, which suggests a profitability challenge. All regions currently show a net profit loss.
 - I noticed too that While Amazon is our top revenue driver, its gross margin is significantly lower than other channels, indicating a need to re-evaluate our channel strategy.
