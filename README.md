@@ -42,7 +42,7 @@ This dataset was provided by the online school under strict confidentiality agre
 - Renaming and Structuring: Renaming columns for clarity and using merges or splits to organize data.
 
 ### Measures (DAX)
-- Dynamic measures were created with DAX to perform aggregations for key business metrics. These calculations respond to filters and slicers in the report.
+- Dynamic measures were created with DAX to perform aggregations for key business metrics. These calculations respond to filters and slicers in the report. Few measures are shown below
   
   ![Alt text for the image](https://github.com/Hammed-Hassan/Consumer_Electronics_Analysis/blob/main/CS1.png)
   - Purpose: Display key Metrics in a tabular form.
