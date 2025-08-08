@@ -43,9 +43,16 @@ This dataset was provided by the online school under strict confidentiality agre
 
 ### Measures (DAX)
 - Dynamic measures were created with DAX to perform aggregations for key business metrics. These calculations respond to filters and slicers in the report.
-  ![Alt text for the image](https://github.com/Hammed-Hassan/AtliQ_Consumer_Electronics_Analysis/blob/main/istockphoto-1397892955-612x612.jpg)
   
+  ![Alt text for the image](https://github.com/Hammed-Hassan/Consumer_Electronics_Analysis/blob/main/CS1.png)
+  - Purpose: Display key Metrics in a tabular form.
 
+  ![Alt text for the image](https://github.com/Hammed-Hassan/Consumer_Electronics_Analysis/blob/main/CS2.png)
+  - Purpose: Display the net error meaning the forecasted quantity minus actual sales.
+    
+  ![Alt text for the image](https://github.com/Hammed-Hassan/Consumer_Electronics_Analysis/blob/main/CS3.png)
+  - Purpose: Total net sales comapared to thesame quantity from the previous year.
+  
 #
 ### Data Modelling 
 A star schema was implemented to structure the data for efficient analysis. This model consists of a central fact table connected to various dimension tables. This design ensures optimal performance and makes it easy to filter and analyze data across different dimensions.
