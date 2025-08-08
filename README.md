@@ -55,7 +55,7 @@ A star schema was implemented to structure the data for efficient analysis. This
 ### Supply Cahin View
 ![Alt text for the image](https://github.com/Midoford/AtliQ-Consumer-Electronics-Analysis/blob/main/6.png)
 
-# Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiZDA1M2M3NzctMzI4NC00ZDMwLTg4YWYtZWJmMDExOWQxNDEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+# Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiOWViY2ZiYTEtNDcxMi00ZGUxLTljNDAtM2VmMTdkY2EwOTZhIiwidCI6IjAwMGRiMTM4LTRjODAtNDc0MC04NDY4LTFiYmMxN2Y5ZTNlYSJ9)
 
 ### Insights
 The analysis revealed several key insights:
